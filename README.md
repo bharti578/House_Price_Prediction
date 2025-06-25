@@ -30,14 +30,11 @@ Project Structure
 - notebooks: Directory containing Jupyter notebooks for data exploration and model training
 - src: Directory containing Python scripts for data preprocessing and model training
 
-Usage
-
-1. Clone the repository: git clone https://github.com/your-username/house-price-prediction.git
-2. Install required libraries: pip install -r requirements.txt
-3. Run the Jupyter notebook: jupyter notebook notebooks/data_exploration.ipynb
-4. Train the model: python src/train_model.py
-
 Future Work
 
 - Feature engineering: Explore additional features that can improve model performance
-- Hyperparameter tuning: Optimize model hyperparameters for better performance.
+- Hyperparameter tuning: Optimize model hyperparameters for better performance
+
+Attached File
+1. house_5000.csv  : Data_set for Training and testing
+2. House_price_prediction.
